@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/placement-hub/static/css/main.26b49119.css",
-    "main.js": "/placement-hub/static/js/main.066a95a5.js",
+    "main.js": "/placement-hub/static/js/main.fd285260.js",
     "index.html": "/placement-hub/index.html",
     "main.26b49119.css.map": "/placement-hub/static/css/main.26b49119.css.map",
-    "main.066a95a5.js.map": "/placement-hub/static/js/main.066a95a5.js.map"
+    "main.fd285260.js.map": "/placement-hub/static/js/main.fd285260.js.map"
   },
   "entrypoints": [
     "static/css/main.26b49119.css",
-    "static/js/main.066a95a5.js"
+    "static/js/main.fd285260.js"
   ]
 }
